@@ -1,1 +1,0 @@
-// Future scripts will go here (e.g., payment integration, contact form, analytics)
